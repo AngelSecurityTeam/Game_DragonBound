@@ -18,4 +18,8 @@ we opened a localhost:81
 <img src="https://github.com/AngelSecurityTeam/Game_DragonBound/blob/main/PHOTOS/2.jpg">
 
 
+<h3> Paypal donations: </h3>
+
+* https://www.paypal.me/AngelSecurityTeam
+
 
