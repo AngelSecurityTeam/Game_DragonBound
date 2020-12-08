@@ -1,0 +1,1 @@
+create a database with the name "game" and then import the .sql
