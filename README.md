@@ -13,4 +13,9 @@ download the source code : http://www.mediafire.com/file/ulew5csszuqicqa/SourceC
 
 Then go to the sourcecode folder and run Game and Server . ( don't forget that XAMPP must be started with MySQL and APACHE . )
 
+we opened a localhost:81
+
+<img src="https://github.com/AngelSecurityTeam/Game_DragonBound/blob/main/PHOTOS/2.jpg">
+
+
 
