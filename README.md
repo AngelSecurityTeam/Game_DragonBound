@@ -20,6 +20,6 @@ we opened a localhost:81
 
 <h3> Paypal donations: </h3>
 
-* https://www.paypal.me/AngelSecurityTeam
+* https://www.paypal.com/paypalme/AngelSecTeam
 
 
